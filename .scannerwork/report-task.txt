@@ -1,0 +1,6 @@
+projectKey=ges-sale
+serverUrl=http://localhost:9000
+serverVersion=6.7.4.38452
+dashboardUrl=http://localhost:9000/dashboard/index/ges-sale
+ceTaskId=AWS83Ppr2Dnetuje_vV_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWS83Ppr2Dnetuje_vV_
